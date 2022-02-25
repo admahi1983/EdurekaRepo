@@ -1,0 +1,2 @@
+# EdurekaRepo
+Added readme file
