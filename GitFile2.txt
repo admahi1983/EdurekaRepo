@@ -1,3 +1,7 @@
 Updating file after first commit
 Some changes to the file for pushing
+<<<<<<< HEAD
 Update file on local repository as a fourth line
+=======
+Update file on online repository
+>>>>>>> c08c90fa8b8e81fbb4ad2c7ebb7873775ef5ef5a
